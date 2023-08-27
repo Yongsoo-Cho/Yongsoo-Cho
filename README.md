@@ -1,16 +1,15 @@
-### Hi there 👋
+## Yongsoo (Mike) Cho
+---------------
+### <ins>Interests & Active Research Areas</ins>
+#### _Computational Biology_
+#### _Machine Learning_
+#### _Web Development_
+* Fullstack web development
+* Graphic design
+* Illustration and modelling
+---------------
 
-<!--
-**Yongsoo-Cho/Yongsoo-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <ins>Work Experience</ins>
+* **January 2023 - March 2023**: Frontend Developer Intern @<a href="https://projecthumancity.com">Project Human City</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my projects here on GitHub.
