@@ -2,8 +2,8 @@
 ---------------
 ### <ins>Interests & Active Research Areas</ins>
 #### _Biomedical Technology_
-* Organ-on-a-chip applications for in-vitro phage microgel testing
-* Utilizing AI for the discovery of addictive properties in analgesics within drug discovery
+* Organ-on-a-chip applications
+* Utilizing AI for drug discovery
 
 #### _Machine Learning_
 #### _Web Development_
