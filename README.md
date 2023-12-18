@@ -13,6 +13,7 @@
 ---------------
 
 ### <ins>Work Experience</ins>
+* **November 2023 - Present**: Director of Technology at MedSTEMPowered
 * **January 2023 - March 2023**: Frontend Developer Intern @<a href="https://projecthumancity.com">Project Human City</a>
 
 Check out my projects here on GitHub.
