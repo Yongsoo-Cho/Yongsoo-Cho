@@ -4,6 +4,9 @@
 
 #### _Machine Learning_
 * Utilizing AI for drug discovery
+  * Generative molecular models
+  * Multi-modal biological data analysis
+  * High-throughput screening
 
   
 #### _Web Development_
