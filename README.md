@@ -16,8 +16,8 @@
 ---------------
 
 ### <ins>Work Experience</ins>
-* **January 2024 - December 2024**: Dry Lab Lead at McMaster SynBio
-* **November 2023 - Present**: Director of Technology at MedSTEMPowered
+* **January 2024 - Present**: Operations Lead at McMaster SynBio
+* **November 2023 - June 2024**: Director of Technology at MedSTEMPowered
 * **January 2023 - March 2023**: Frontend Developer Intern @<a href="https://projecthumancity.com">Project Human City</a>
 
 Check out my projects here on GitHub.
