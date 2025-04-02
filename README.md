@@ -1,19 +1,4 @@
 ## Yongsoo (Mike) Cho
-<div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongsoo-Cho&layout=compact&theme=tokyonight" 
-    alt="Top Langs" 
-    width="45%" 
-  />
-
-  <img 
-    src="https://leetcard.jacoblin.cool/Yongsoo-Cho" 
-    alt="LeetCode Stats" 
-    width="45%" 
-  />
-
-</div>
 
 ### <ins>Interests & Active Research Areas</ins>
 
