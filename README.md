@@ -1,7 +1,18 @@
 ## Yongsoo (Mike) Cho
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongsoo-Cho&layout=compact&theme=tokyonight" width="500" height="250">
-  <img src="https://leetcard.jacoblin.cool/Yongsoo-Cho" width="500" height="300">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongsoo-Cho&layout=compact&theme=tokyonight" 
+    alt="Top Langs" 
+    width="45%" 
+  />
+
+  <img 
+    src="https://leetcard.jacoblin.cool/Yongsoo-Cho" 
+    alt="LeetCode Stats" 
+    width="45%" 
+  />
+
 </div>
 
 ### <ins>Interests & Active Research Areas</ins>
@@ -12,7 +23,6 @@
   * Multi-modal biological data analysis
   * High-throughput screening
 
-  
 #### _Web Development_
 * Fullstack web development
 * Graphic design
@@ -23,5 +33,3 @@
 * **January 2024 - Present**: Operations Lead at McMaster SynBio
 * **November 2023 - June 2024**: Director of Technology at MedSTEMPowered
 * **January 2023 - March 2023**: Frontend Developer Intern @<a href="https://projecthumancity.com">Project Human City</a>
-
-Check out my projects here on GitHub.
