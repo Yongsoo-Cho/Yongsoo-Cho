@@ -7,11 +7,6 @@
   * Generative molecular models
   * Multi-modal biological data analysis
   * High-throughput screening
-
-#### _Web Development_
-* Fullstack web development
-* Graphic design
-* Illustration
 ---------------
 
 ### <ins>Work Experience</ins>
