@@ -1,12 +1,9 @@
 ## Yongsoo (Mike) Cho
 
-### <ins>Interests & Active Research Areas</ins>
+### <ins>Full-Stack Developer & Synthetic Biology Technologist</ins>
 
-#### _Machine Learning_
-* Utilizing AI for drug discovery
-  * Generative molecular models
-  * Multi-modal biological data analysis
-  * High-throughput screening
+I build digital systems supporting my wet lab colleagues: lab management, genetic design tools, and biotechnology platforms. Experienced in Java and Python.
+
 ---------------
 
 ### <ins>Work Experience</ins>
