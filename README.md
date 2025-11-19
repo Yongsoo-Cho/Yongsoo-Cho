@@ -7,6 +7,6 @@ I build digital systems supporting my wet lab colleagues: lab management, geneti
 ---------------
 
 ### <ins>Work Experience</ins>
-* **January 2024 - Present**: Operations Lead at McMaster SynBio
-* **November 2023 - June 2024**: Director of Technology at MedSTEMPowered
+* **November 2025 - Present**: Software Engineer at Differential Bio
+* **January 2024 - November 2025**: Operations Lead at McMaster SynBio
 * **January 2023 - March 2023**: Frontend Developer Intern @<a href="https://projecthumancity.com">Project Human City</a>
